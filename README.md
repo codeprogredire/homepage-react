@@ -1,1 +1,1 @@
-# This repo contains a simple toy homepage and aboutpage of a site built using react while learning react.
+# This repo contains a codes written while learning react from react's quickstart official documentation.
